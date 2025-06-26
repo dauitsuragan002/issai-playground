@@ -61,23 +61,23 @@ ASSISTANT_ID = 'your_assistant_id'
 <tr>
 <td align="center">
     
-**Example 1**
+**Famale Voice**
 </td>
 <td align="center">
     
-**Example 2**
+**Male Voice**
 </td>
 </tr>
 
 <tr>
 <td align="center">
 
-[soyle tts](https://github.com/user-attachments/assets/1d3aaaeb-d95c-4ed9-9738-399fa6d4ca05)
+[output_audio.webm](https://github.com/user-attachments/assets/e4e78b48-e46e-4b0e-81cf-d4b721b5a981)
 
 </td>
 <td align="center">
   
-[input_audio.webm](https://github.com/user-attachments/assets/74ef22dd-fe90-4e1d-8ec1-71faee52d804)
+[input_audio.webm](https://github.com/user-attachments/assets/065313f3-408f-4b8e-b46c-04364403f454)
 
 </td>
 </tr>
