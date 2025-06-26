@@ -100,6 +100,11 @@ ASSISTANT_ID = 'your_assistant_id'
 - https://t.me/david667s
 - https://t.me/davidsuragan
 
+## Credits
+- https://oylan.nu.edu.kz/login
+- https://mangisoz.nu.edu.kz
+- https://beynele.nu.edu.kz/login
+
 ## License
 
 MIT License
