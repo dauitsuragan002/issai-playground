@@ -88,6 +88,7 @@ ASSISTANT_ID = 'your_assistant_id'
 
 - **Image generation:**
 <img src="beynele/generated_images/BayterekmonumentinAstanacyberp_1.png" alt="Generated Example" width="400"/>
+   Bayterek monument in Astana, cyberpunk style
   - `beynele/beynele.py` — text-to-image
 
 ## Contact
