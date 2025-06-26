@@ -87,7 +87,6 @@ ASSISTANT_ID = 'your_assistant_id'
   - `soyle/tts.py` — text-to-speech
 
 - **Image generation:**
-![Generated Example](beynele/generated_images/BayterekmonumentinAstanacyberp_1.png)
 <img src="beynele/generated_images/BayterekmonumentinAstanacyberp_1.png" alt="Generated Example" width="400"/>
   - `beynele/beynele.py` — text-to-image
 
