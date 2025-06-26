@@ -88,6 +88,7 @@ ASSISTANT_ID = 'your_assistant_id'
 
 - **Image generation:**
 ![Generated Example](beynele/generated_images/BayterekmonumentinAstanacyberp_1.png)
+<img src="beynele/generated_images/BayterekmonumentinAstanacyberp_1.png" alt="Generated Example" width="400"/>
   - `beynele/beynele.py` — text-to-image
 
 ## Contact
